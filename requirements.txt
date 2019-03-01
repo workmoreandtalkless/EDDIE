@@ -1,0 +1,7 @@
+matplotlib
+numpy
+copy
+pickle
+datetime
+obspy
+sys
