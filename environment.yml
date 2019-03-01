@@ -1,0 +1,12 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - hvplot
+  - holoviews
+  - obspy
+  - datetime 

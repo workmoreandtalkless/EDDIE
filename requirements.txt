@@ -1,6 +1,0 @@
-matplotlib
-conda install numpy
-datetime
-pip install --upgrade pip
-obspy
-sys
