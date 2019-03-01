@@ -1,6 +1,5 @@
 matplotlib
 numpy
-pickle
 datetime
 obspy
 sys
