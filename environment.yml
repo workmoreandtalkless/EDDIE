@@ -10,3 +10,4 @@ dependencies:
   - holoviews
   - obspy
   - xarray
+  - datashader
